@@ -6,7 +6,6 @@ import cn.nukkit.event.server.DataPacketReceiveEvent;
 import cn.nukkit.network.protocol.LoginPacket;
 import cn.nukkit.plugin.PluginBase;
 
-/* renamed from: me.petterim1.ns.NoSpaceInName */
 public class NoSpaceInName extends PluginBase implements Listener {
     private String replaceWith;
 
